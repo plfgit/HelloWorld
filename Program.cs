@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, GitHub!");
+            Console.WriteLine("Hello, GitHub test!");
         }
     }
 }
